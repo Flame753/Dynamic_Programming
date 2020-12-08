@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b136cc4f-1c4a-46be-935b-783192c89863" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Fibonacci_Numbers/Fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fibonacci_Numbers/test_fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grid_Traveler_Problem/Grid_Traveler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grid_Traveler_Problem/test_grid_traveler.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,10 +36,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Grid_Traveler_Problem" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Fibonacci_Numbers" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Grid_Traveler">
     <configuration name="Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Dynamic_Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,8 +63,45 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Grid_Traveler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Dynamic_Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Grid_Traveler_Problem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Grid_Traveler_Problem/Grid_Traveler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_grid_traveler.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Dynamic_Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Grid_Traveler_Problem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Grid_Traveler_Problem/test_grid_traveler.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Grid_Traveler" />
+        <item itemvalue="Python tests.Unittests in test_grid_traveler.py" />
         <item itemvalue="Python.Fibonacci" />
       </list>
     </recent_temporary>
@@ -78,9 +117,33 @@
       <option name="presentableId" value="Default" />
       <updated>1607446336472</updated>
     </task>
+    <task id="LOCAL-00001" summary="A Fibonacci script that goes up to 99 without waiting">
+      <created>1607449761517</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607449761517</updated>
+    </task>
+    <task id="LOCAL-00002" summary="A unit test for the fibonacci script">
+      <created>1607449798852</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607449798852</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A Fibonacci script that goes up to 99 without waiting" />
+    <MESSAGE value="A unit test for the fibonacci script" />
+    <option name="LAST_COMMIT_MESSAGE" value="A unit test for the fibonacci script" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="424" y="78" key="CommitChangelistDialog2" timestamp="1607449798721">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state x="424" y="78" key="CommitChangelistDialog2/0.25.1680.962@0.25.1680.962" timestamp="1607449798721" />
     <state x="485" y="335" key="Github.ShareDialog" timestamp="1607446391530">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
@@ -89,41 +152,49 @@
       <screen x="0" y="25" width="1680" height="962" />
     </state>
     <state x="403" y="143" key="Github.UntrackedFilesDialog/0.25.1680.962@0.25.1680.962" timestamp="1607446398081" />
-    <state width="1659" height="256" key="GridCell.Tab.0.bottom" timestamp="1607449462276">
+    <state width="1659" height="256" key="GridCell.Tab.0.bottom" timestamp="1607452769002">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1659" height="256" key="GridCell.Tab.0.bottom/0.25.1680.962@0.25.1680.962" timestamp="1607449462276" />
-    <state width="1659" height="256" key="GridCell.Tab.0.center" timestamp="1607449462275">
+    <state width="1659" height="256" key="GridCell.Tab.0.bottom/0.25.1680.962@0.25.1680.962" timestamp="1607452769002" />
+    <state width="1659" height="256" key="GridCell.Tab.0.center" timestamp="1607452769001">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1659" height="256" key="GridCell.Tab.0.center/0.25.1680.962@0.25.1680.962" timestamp="1607449462275" />
-    <state width="1659" height="256" key="GridCell.Tab.0.left" timestamp="1607449462274">
+    <state width="1659" height="256" key="GridCell.Tab.0.center/0.25.1680.962@0.25.1680.962" timestamp="1607452769001" />
+    <state width="1659" height="256" key="GridCell.Tab.0.left" timestamp="1607452769001">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1659" height="256" key="GridCell.Tab.0.left/0.25.1680.962@0.25.1680.962" timestamp="1607449462274" />
-    <state width="1659" height="256" key="GridCell.Tab.0.right" timestamp="1607449462276">
+    <state width="1659" height="256" key="GridCell.Tab.0.left/0.25.1680.962@0.25.1680.962" timestamp="1607452769001" />
+    <state width="1659" height="256" key="GridCell.Tab.0.right" timestamp="1607452769002">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1659" height="256" key="GridCell.Tab.0.right/0.25.1680.962@0.25.1680.962" timestamp="1607449462276" />
-    <state width="1659" height="317" key="GridCell.Tab.1.bottom" timestamp="1607449352785">
+    <state width="1659" height="256" key="GridCell.Tab.0.right/0.25.1680.962@0.25.1680.962" timestamp="1607452769002" />
+    <state width="1659" height="317" key="GridCell.Tab.1.bottom" timestamp="1607451502740">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1659" height="317" key="GridCell.Tab.1.bottom/0.25.1680.962@0.25.1680.962" timestamp="1607449352785" />
-    <state width="1659" height="317" key="GridCell.Tab.1.center" timestamp="1607449352785">
+    <state width="1659" height="317" key="GridCell.Tab.1.bottom/0.25.1680.962@0.25.1680.962" timestamp="1607451502740" />
+    <state width="1659" height="317" key="GridCell.Tab.1.center" timestamp="1607451502740">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1659" height="317" key="GridCell.Tab.1.center/0.25.1680.962@0.25.1680.962" timestamp="1607449352785" />
-    <state width="1659" height="317" key="GridCell.Tab.1.left" timestamp="1607449352785">
+    <state width="1659" height="317" key="GridCell.Tab.1.center/0.25.1680.962@0.25.1680.962" timestamp="1607451502740" />
+    <state width="1659" height="317" key="GridCell.Tab.1.left" timestamp="1607451502740">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1659" height="317" key="GridCell.Tab.1.left/0.25.1680.962@0.25.1680.962" timestamp="1607449352785" />
-    <state width="1659" height="317" key="GridCell.Tab.1.right" timestamp="1607449352785">
+    <state width="1659" height="317" key="GridCell.Tab.1.left/0.25.1680.962@0.25.1680.962" timestamp="1607451502740" />
+    <state width="1659" height="317" key="GridCell.Tab.1.right" timestamp="1607451502740">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1659" height="317" key="GridCell.Tab.1.right/0.25.1680.962@0.25.1680.962" timestamp="1607449352785" />
-    <state x="505" y="236" width="670" height="676" key="search.everywhere.popup" timestamp="1607449155984">
+    <state width="1659" height="317" key="GridCell.Tab.1.right/0.25.1680.962@0.25.1680.962" timestamp="1607451502740" />
+    <state x="440" y="242" key="Vcs.Push.Dialog.v2" timestamp="1607449824654">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state x="505" y="236" width="670" height="676" key="search.everywhere.popup/0.25.1680.962@0.25.1680.962" timestamp="1607449155984" />
+    <state x="440" y="242" key="Vcs.Push.Dialog.v2/0.25.1680.962@0.25.1680.962" timestamp="1607449824654" />
+    <state x="496" y="298" key="git4idea.merge.GitPullDialog" timestamp="1607449814977">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state x="496" y="298" key="git4idea.merge.GitPullDialog/0.25.1680.962@0.25.1680.962" timestamp="1607449814977" />
+    <state x="505" y="236" width="670" height="676" key="search.everywhere.popup" timestamp="1607452471970">
+      <screen x="0" y="25" width="1680" height="962" />
+    </state>
+    <state x="505" y="236" width="670" height="676" key="search.everywhere.popup/0.25.1680.962@0.25.1680.962" timestamp="1607452471970" />
   </component>
 </project>
