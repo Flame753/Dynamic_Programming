@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b136cc4f-1c4a-46be-935b-783192c89863" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Grid_Traveler_Problem/Grid_Traveler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Grid_Traveler_Problem/test_grid_traveler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Can_Sum_Problem/Can_Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Can_Sum_Problem/test_can_sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grid_Traveler_Problem/Grid_Traveler.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grid_Traveler_Problem/Grid_Traveler.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Python Unit Test" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -41,28 +42,7 @@
       <recent name="$PROJECT_DIR$/Fibonacci_Numbers" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Grid_Traveler">
-    <configuration name="Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Dynamic_Programming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fibonacci_Numbers/Fibonacci.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in test_can_sum.py">
     <configuration name="Grid_Traveler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Dynamic_Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,6 +64,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for test_can_sum.MyTestCase.test_long" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Dynamic_Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Can_Sum_Problem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_can_sum.MyTestCase.test_long&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_can_sum.MyTestCase.test_short" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Dynamic_Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Can_Sum_Problem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_can_sum.MyTestCase.test_short&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_can_sum.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Dynamic_Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Can_Sum_Problem" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Can_Sum_Problem/test_can_sum.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests in test_grid_traveler.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Dynamic_Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,9 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in test_can_sum.py" />
+        <item itemvalue="Python tests.Unittests for test_can_sum.MyTestCase.test_short" />
+        <item itemvalue="Python tests.Unittests for test_can_sum.MyTestCase.test_long" />
         <item itemvalue="Python.Grid_Traveler" />
         <item itemvalue="Python tests.Unittests in test_grid_traveler.py" />
-        <item itemvalue="Python.Fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -131,19 +155,35 @@
       <option name="project" value="LOCAL" />
       <updated>1607449798852</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="A unit test for the grid traveler problem">
+      <created>1607452846915</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607452846915</updated>
+    </task>
+    <task id="LOCAL-00004" summary="non-optimize problem">
+      <created>1607452906355</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607452906355</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="A Fibonacci script that goes up to 99 without waiting" />
     <MESSAGE value="A unit test for the fibonacci script" />
-    <option name="LAST_COMMIT_MESSAGE" value="A unit test for the fibonacci script" />
+    <MESSAGE value="A unit test for the grid traveler problem" />
+    <MESSAGE value="non-optimize problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="non-optimize problem" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="424" y="78" key="CommitChangelistDialog2" timestamp="1607449798721">
+    <state x="679" y="73" key="CommitChangelistDialog2" timestamp="1607452906186">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state x="424" y="78" key="CommitChangelistDialog2/0.25.1680.962@0.25.1680.962" timestamp="1607449798721" />
+    <state x="679" y="73" key="CommitChangelistDialog2/0.25.1680.962@0.25.1680.962" timestamp="1607452906186" />
     <state x="485" y="335" key="Github.ShareDialog" timestamp="1607446391530">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
@@ -152,38 +192,46 @@
       <screen x="0" y="25" width="1680" height="962" />
     </state>
     <state x="403" y="143" key="Github.UntrackedFilesDialog/0.25.1680.962@0.25.1680.962" timestamp="1607446398081" />
-    <state width="1659" height="256" key="GridCell.Tab.0.bottom" timestamp="1607452769002">
+    <state width="1419" height="304" key="GridCell.Tab.0.bottom" timestamp="1608154517085">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1419" height="333" key="GridCell.Tab.0.bottom/0.25.1440.812/-559.-1415.2560.1415@0.25.1440.812" timestamp="1608150482717" />
+    <state width="1419" height="304" key="GridCell.Tab.0.bottom/0.25.1440.875/-559.-1415.2560.1352@0.25.1440.875" timestamp="1608154517085" />
+    <state width="1659" height="317" key="GridCell.Tab.0.bottom/0.25.1680.962@0.25.1680.962" timestamp="1607807128747" />
+    <state width="1419" height="304" key="GridCell.Tab.0.center" timestamp="1608154517084">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1419" height="333" key="GridCell.Tab.0.center/0.25.1440.812/-559.-1415.2560.1415@0.25.1440.812" timestamp="1608150482716" />
+    <state width="1419" height="304" key="GridCell.Tab.0.center/0.25.1440.875/-559.-1415.2560.1352@0.25.1440.875" timestamp="1608154517084" />
+    <state width="1659" height="317" key="GridCell.Tab.0.center/0.25.1680.962@0.25.1680.962" timestamp="1607807128747" />
+    <state width="1419" height="304" key="GridCell.Tab.0.left" timestamp="1608154517083">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1419" height="333" key="GridCell.Tab.0.left/0.25.1440.812/-559.-1415.2560.1415@0.25.1440.812" timestamp="1608150482715" />
+    <state width="1419" height="304" key="GridCell.Tab.0.left/0.25.1440.875/-559.-1415.2560.1352@0.25.1440.875" timestamp="1608154517083" />
+    <state width="1659" height="317" key="GridCell.Tab.0.left/0.25.1680.962@0.25.1680.962" timestamp="1607807128747" />
+    <state width="1419" height="304" key="GridCell.Tab.0.right" timestamp="1608154517084">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1419" height="333" key="GridCell.Tab.0.right/0.25.1440.812/-559.-1415.2560.1415@0.25.1440.812" timestamp="1608150482716" />
+    <state width="1419" height="304" key="GridCell.Tab.0.right/0.25.1440.875/-559.-1415.2560.1352@0.25.1440.875" timestamp="1608154517084" />
+    <state width="1659" height="317" key="GridCell.Tab.0.right/0.25.1680.962@0.25.1680.962" timestamp="1607807128747" />
+    <state width="1659" height="317" key="GridCell.Tab.1.bottom" timestamp="1607807128750">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1659" height="256" key="GridCell.Tab.0.bottom/0.25.1680.962@0.25.1680.962" timestamp="1607452769002" />
-    <state width="1659" height="256" key="GridCell.Tab.0.center" timestamp="1607452769001">
+    <state width="1659" height="317" key="GridCell.Tab.1.bottom/0.25.1680.962@0.25.1680.962" timestamp="1607807128750" />
+    <state width="1659" height="317" key="GridCell.Tab.1.center" timestamp="1607807128748">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1659" height="256" key="GridCell.Tab.0.center/0.25.1680.962@0.25.1680.962" timestamp="1607452769001" />
-    <state width="1659" height="256" key="GridCell.Tab.0.left" timestamp="1607452769001">
+    <state width="1659" height="317" key="GridCell.Tab.1.center/0.25.1680.962@0.25.1680.962" timestamp="1607807128748" />
+    <state width="1659" height="317" key="GridCell.Tab.1.left" timestamp="1607807128748">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1659" height="256" key="GridCell.Tab.0.left/0.25.1680.962@0.25.1680.962" timestamp="1607452769001" />
-    <state width="1659" height="256" key="GridCell.Tab.0.right" timestamp="1607452769002">
+    <state width="1659" height="317" key="GridCell.Tab.1.left/0.25.1680.962@0.25.1680.962" timestamp="1607807128748" />
+    <state width="1659" height="317" key="GridCell.Tab.1.right" timestamp="1607807128750">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
-    <state width="1659" height="256" key="GridCell.Tab.0.right/0.25.1680.962@0.25.1680.962" timestamp="1607452769002" />
-    <state width="1659" height="317" key="GridCell.Tab.1.bottom" timestamp="1607451502740">
-      <screen x="0" y="25" width="1680" height="962" />
-    </state>
-    <state width="1659" height="317" key="GridCell.Tab.1.bottom/0.25.1680.962@0.25.1680.962" timestamp="1607451502740" />
-    <state width="1659" height="317" key="GridCell.Tab.1.center" timestamp="1607451502740">
-      <screen x="0" y="25" width="1680" height="962" />
-    </state>
-    <state width="1659" height="317" key="GridCell.Tab.1.center/0.25.1680.962@0.25.1680.962" timestamp="1607451502740" />
-    <state width="1659" height="317" key="GridCell.Tab.1.left" timestamp="1607451502740">
-      <screen x="0" y="25" width="1680" height="962" />
-    </state>
-    <state width="1659" height="317" key="GridCell.Tab.1.left/0.25.1680.962@0.25.1680.962" timestamp="1607451502740" />
-    <state width="1659" height="317" key="GridCell.Tab.1.right" timestamp="1607451502740">
-      <screen x="0" y="25" width="1680" height="962" />
-    </state>
-    <state width="1659" height="317" key="GridCell.Tab.1.right/0.25.1680.962@0.25.1680.962" timestamp="1607451502740" />
+    <state width="1659" height="317" key="GridCell.Tab.1.right/0.25.1680.962@0.25.1680.962" timestamp="1607807128750" />
     <state x="440" y="242" key="Vcs.Push.Dialog.v2" timestamp="1607449824654">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
@@ -192,9 +240,11 @@
       <screen x="0" y="25" width="1680" height="962" />
     </state>
     <state x="496" y="298" key="git4idea.merge.GitPullDialog/0.25.1680.962@0.25.1680.962" timestamp="1607449814977" />
-    <state x="505" y="236" width="670" height="676" key="search.everywhere.popup" timestamp="1607452471970">
-      <screen x="0" y="25" width="1680" height="962" />
+    <state x="433" y="217" width="670" height="616" key="search.everywhere.popup" timestamp="1608154130540">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
+    <state x="433" y="203" width="670" height="571" key="search.everywhere.popup/0.25.1440.812/-559.-1415.2560.1415@0.25.1440.812" timestamp="1608150122048" />
+    <state x="433" y="217" width="670" height="616" key="search.everywhere.popup/0.25.1440.875/-559.-1415.2560.1352@0.25.1440.875" timestamp="1608154130540" />
     <state x="505" y="236" width="670" height="676" key="search.everywhere.popup/0.25.1680.962@0.25.1680.962" timestamp="1607452471970" />
   </component>
 </project>
