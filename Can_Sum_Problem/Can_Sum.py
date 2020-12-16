@@ -4,6 +4,11 @@
 # You may use an element of the array as many times as needed.
 # you may assume that all input numbers are non-negative.
 
+# m = target sum
+# n = array length
+# brute force; O(n^m)time and O(m)space
+# memoized; O(m*n)time and O(m)space
+
 
 def canSum(targetSum, numbers, memo=None):  # added a memo object
     if memo is None:

@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b136cc4f-1c4a-46be-935b-783192c89863" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Can_Sum_Problem/Can_Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Can_Sum_Problem/test_can_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grid_Traveler_Problem/Grid_Traveler.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grid_Traveler_Problem/Grid_Traveler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Can_Sum_Problem/Can_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Can_Sum_Problem/Can_Sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +166,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607452906355</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Grid traveler">
+      <created>1608154679200</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608154679200</updated>
+    </task>
+    <task id="LOCAL-00006" summary="can Sum problem with solution">
+      <created>1608154715607</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608154715607</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -177,12 +188,15 @@
     <MESSAGE value="A unit test for the fibonacci script" />
     <MESSAGE value="A unit test for the grid traveler problem" />
     <MESSAGE value="non-optimize problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="non-optimize problem" />
+    <MESSAGE value="Grid traveler" />
+    <MESSAGE value="can Sum problem with solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="can Sum problem with solution" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="679" y="73" key="CommitChangelistDialog2" timestamp="1607452906186">
-      <screen x="0" y="25" width="1680" height="962" />
+    <state x="563" y="25" key="CommitChangelistDialog2" timestamp="1608154715502">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
+    <state x="563" y="25" key="CommitChangelistDialog2/0.25.1440.875/-559.-1415.2560.1352@0.25.1440.875" timestamp="1608154715502" />
     <state x="679" y="73" key="CommitChangelistDialog2/0.25.1680.962@0.25.1680.962" timestamp="1607452906186" />
     <state x="485" y="335" key="Github.ShareDialog" timestamp="1607446391530">
       <screen x="0" y="25" width="1680" height="962" />
@@ -232,19 +246,20 @@
       <screen x="0" y="25" width="1680" height="962" />
     </state>
     <state width="1659" height="317" key="GridCell.Tab.1.right/0.25.1680.962@0.25.1680.962" timestamp="1607807128750" />
-    <state x="440" y="242" key="Vcs.Push.Dialog.v2" timestamp="1607449824654">
-      <screen x="0" y="25" width="1680" height="962" />
+    <state x="377" y="222" key="Vcs.Push.Dialog.v2" timestamp="1608154742449">
+      <screen x="0" y="25" width="1440" height="875" />
     </state>
+    <state x="377" y="222" key="Vcs.Push.Dialog.v2/0.25.1440.875/-559.-1415.2560.1352@0.25.1440.875" timestamp="1608154742449" />
     <state x="440" y="242" key="Vcs.Push.Dialog.v2/0.25.1680.962@0.25.1680.962" timestamp="1607449824654" />
     <state x="496" y="298" key="git4idea.merge.GitPullDialog" timestamp="1607449814977">
       <screen x="0" y="25" width="1680" height="962" />
     </state>
     <state x="496" y="298" key="git4idea.merge.GitPullDialog/0.25.1680.962@0.25.1680.962" timestamp="1607449814977" />
-    <state x="433" y="217" width="670" height="616" key="search.everywhere.popup" timestamp="1608154130540">
+    <state x="433" y="217" width="670" height="616" key="search.everywhere.popup" timestamp="1608154903299">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="433" y="203" width="670" height="571" key="search.everywhere.popup/0.25.1440.812/-559.-1415.2560.1415@0.25.1440.812" timestamp="1608150122048" />
-    <state x="433" y="217" width="670" height="616" key="search.everywhere.popup/0.25.1440.875/-559.-1415.2560.1352@0.25.1440.875" timestamp="1608154130540" />
+    <state x="433" y="217" width="670" height="616" key="search.everywhere.popup/0.25.1440.875/-559.-1415.2560.1352@0.25.1440.875" timestamp="1608154903299" />
     <state x="505" y="236" width="670" height="676" key="search.everywhere.popup/0.25.1680.962@0.25.1680.962" timestamp="1607452471970" />
   </component>
 </project>
